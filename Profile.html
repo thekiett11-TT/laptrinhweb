@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập vận dụng 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 { color: #2c3e50; text-align: center; }
+        h2 { color: #2980b9; border-bottom: 2px solid #2980b9; }
+        code {
+            background: #eee;
+            padding: 2px 5px;
+            border-radius: 4px;
+            color: #c7254e;
+        }
+        pre {
+            background: #272822;
+            color: #f8f8f2;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        .quote {
+            font-style: italic;
+            color: #555;
+            border-left: 5px solid #2980b9;
+            padding-left: 15px;
+            margin-top: 20px;
+        }
+        .dark-mode body {
+            background-color: #121212;
+            color: #ffffff;
+        }
+        .dark-mode .container {
+            background: #1e1e1e;
+            box-shadow: 0 0 10px rgba(255,255,255,0.1);
+        }
+        .dark-mode h1 { color: #ffffff; }
+        .dark-mode h2 { color: #bb86fc; border-bottom-color: #bb86fc; }
+        .dark-mode code { background: #333; color: #ff6b6b; }
+        .dark-mode pre { background: #000; color: #f8f8f2; }
+        .dark-mode .quote { border-left-color: #bb86fc; color: #ccc; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bài tập vận dụng 1</h1>
+
+        <h2>Giới thiệu bản thân</h2>
+        <p><strong>Họ và tên:</strong> Tô Thế Kiệt </p>
+        <p><strong>MSSV:</strong> 2380601161</p>
+        <p><strong>Lớp:</strong> 23DTHB4</p>
+
+        <h2>Sở thích cá nhân</h2>
+        <ul>
+            <li>Lập trình web và ứng dụng di động.</li>
+            <li>Nghe âm nhạc EDM sôi động.</li>
+            <li>Chơi bóng đá vào cuối tuần.</li>
+            <li>Khám phá các quán cafe mới cùng bạn bè.</li>
+        </ul>
+
+        <h2>Mã nguồn mẫu (JavaScript)</h2>
+        <p>Ví dụ về hàm tính tổng hai số:</p>
+        <pre>
+                for(int n = 1; n <= a ; n++) {
+                   printf("%d ", n);
+                }
+        </pre>
+
+        <h2>Châm ngôn yêu thích</h2>
+        <div class="quote">
+            <p>"Hành trình vạn dặm bắt đầu từ một bước chân."</p>
+            <p><strong>— Lão Tử</strong></p>
+        </div>
+        <div style="margin-top: 20px;">
+            <button onclick="editInfo()">Chỉnh sửa thông tin cá nhân</button>
+            <button onclick="addHobby()">Thêm sở thích</button>
+            <button onclick="toggleCode()">Ẩn/Hiện mã nguồn</button>
+            <button onclick="toggleMode()">Chuyển đổi chế độ</button>
+        </div>
+    </div>
+
+    <script>
+        function editInfo() {
+            let name = prompt("Nhập tên mới:");
+            if (name) {
+                let nameP = document.querySelectorAll('p strong')[0].parentElement;
+                nameP.innerHTML = '<strong>Họ và tên:</strong> ' + name;
+            }
+            let mssv = prompt("Nhập MSSV mới:");
+            if (mssv) {
+                let mssvP = document.querySelectorAll('p strong')[1].parentElement;
+                mssvP.innerHTML = '<strong>MSSV:</strong> ' + mssv;
+            }
+            let lop = prompt("Nhập lớp mới:");
+            if (lop) {
+                let lopP = document.querySelectorAll('p strong')[2].parentElement;
+                lopP.innerHTML = '<strong>Lớp:</strong> ' + lop;
+            }
+        }
+
+        function addHobby() {
+            let hobby = prompt("Nhập sở thích mới:");
+            if (hobby && hobby.trim()) {
+                let ul = document.querySelector('.container ul');
+                let li = document.createElement('li');
+                li.textContent = hobby;
+                ul.appendChild(li);
+            } else {
+                alert("Sở thích không được để trống!");
+            }
+        }
+
+        function toggleCode() {
+            let pre = document.querySelector('pre');
+            pre.style.display = pre.style.display === 'none' ? 'block' : 'none';
+        }
+
+        function toggleMode() {
+            document.body.classList.toggle('dark-mode');
+        }
+    </script>
+
+
+</body>
+</html>
