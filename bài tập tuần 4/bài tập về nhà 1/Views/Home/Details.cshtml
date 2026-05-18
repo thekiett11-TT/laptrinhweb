@@ -1,0 +1,19 @@
+﻿@model bài_tập_về_nhà_1.Models.ToDo
+@{
+    ViewData["Title"] = "Chi tiết công việc";
+}
+
+<div class="container mt-4" style="max-width: 500px;">
+    <h2>Chi tiết công việc</h2>
+    <hr />
+    <ul class="list-group">
+        <li class="list-group-item"><strong>Mã công việc:</strong> @Model.Id</li>
+        <li class="list-group-item"><strong>Tên công việc:</strong> @Model.Name</li>
+        <li class="list-group-item">
+            <strong>Trạng thái hoàn thành:</strong>
+            @(Model.IsCompleted ? "Đã hoàn thành" : "Chưa hoàn thành")
+        </li>
+    </ul>
+    <br />
+    <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Quay trở lại</a>
+</div>

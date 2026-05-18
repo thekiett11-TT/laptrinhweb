@@ -1,0 +1,99 @@
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\appsettings.Development.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\appsettings.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\bài tập công điểm.staticwebassets.runtime.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\bài tập công điểm.staticwebassets.endpoints.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\bài tập công điểm.exe
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\bài tập công điểm.deps.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\bài tập công điểm.runtimeconfig.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\bài tập công điểm.dll
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\bin\Debug\net10.0\bài tập công điểm.pdb
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.GeneratedMSBuildEditorConfig.editorconfig
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.AssemblyInfoInputs.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.AssemblyInfo.cs
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.csproj.CoreCompileInputs.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.MvcApplicationPartsAssemblyInfo.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.RazorAssemblyInfo.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.RazorAssemblyInfo.cs
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.sourcelink.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\scopedcss\bundle\bài tập công điểm.styles.css
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\scopedcss\projectbundle\bài tập công điểm.bundle.scp.css
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\d50jmhaoks-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\i2428zgn3r-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\6js5c1rni4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\vvmua6c24z-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\40e1h5uecm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\wwpmyafy2n-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\r9sgsubhh0-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\p3s60grzzp-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\exc4xj8usr-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\ng5lm8w1ma-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\z9tucvkf81-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\8cfw5d7z2l-{0}-ub07r2b239-ub07r2b239.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\rw13bcpsr7-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\0ov5py99yx-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\dn3afaof5h-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\lh2lhrojg9-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\klo6x9fk56-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\prvnhpidpa-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\kgyllgbx3w-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\8nwyqtu4ly-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\i1nhfnrzsp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\33y8n3mggs-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\z4mvb72qos-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\28tjsw8kb3-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\wvip1eoaqi-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\msq7jjf4he-{0}-06098lyss8-06098lyss8.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\3femmrkoqx-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\ts3j9vkndx-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\nhdacmb4gb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\kdwppp00ts-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\caw6mmy7wv-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\2uslog9li3-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\jtruej35z5-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\f4kbn1kb9p-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\5odnuzeqgc-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\fxidehweww-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\1hpi7ci744-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\infzxu0ra2-{0}-493y06b0oq-493y06b0oq.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\8sjksrqgfy-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\1mz129iae2-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\ar0d7kfm6g-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\gqjl074yh6-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\g6u2uxidfd-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\c9v2riodeh-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\pnfo3rjnwr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\3u6gol24d5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\xn058vyfyl-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\qaeptxrgzc-{0}-47otxtyo56-47otxtyo56.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\t5g58bmgyp-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\rs8r4dcpmz-{0}-356vix0kms-356vix0kms.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\nhzmqt4esm-{0}-83jwlth58m-83jwlth58m.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\7iclc6fl3r-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\t5avzs3fct-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\58nl7unyxk-{0}-ag7o75518u-ag7o75518u.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\xmp6mqj92i-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\mq4wf1rdfd-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\dgwadz9a6c-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\cee5wlt7c3-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\8ulcr72hky-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\gpaymf5gcn-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\u297cu22f4-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\sywq9up5ld-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\0c35w56inp-{0}-4e0b3hgm12-4e0b3hgm12.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\compressed\bgv207npom-{0}-4e0b3hgm12-4e0b3hgm12.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\staticwebassets.build.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\staticwebassets.development.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\swae.build.ex.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.dll
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\refint\bài tập công điểm.dll
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.pdb
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\bài tập công điểm.genruntimeconfig.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập công điểm\obj\Debug\net10.0\ref\bài tập công điểm.dll

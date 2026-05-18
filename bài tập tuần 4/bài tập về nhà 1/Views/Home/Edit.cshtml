@@ -1,0 +1,27 @@
+﻿@model bài_tập_về_nhà_1.Models.ToDo
+@{
+    ViewData["Title"] = "Sửa công việc";
+}
+
+<div class="container mt-4" style="max-width: 500px;">
+    <h2>Sửa công việc</h2>
+    <hr />
+    <form method="post" action="@Url.Action("Edit", "Home")">
+        <div class="mb-3">
+            <label class="form-label">Mã công việc</label>
+            <input type="number" name="Id" value="@Model.Id" class="form-control" readonly />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Tên công việc</label>
+            <input type="text" name="Name" value="@Model.Name" class="form-control" required />
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" name="IsCompleted" value="true" class="form-check-input" id="completeCheck" @(Model.IsCompleted ? "checked" : "") />
+            <input type="hidden" name="IsCompleted" value="false" />
+            <label class="form-check-label" for="completeCheck">Trạng thái hoàn thành</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Sửa</button>
+        <br /><br />
+        <a href="@Url.Action("Index", "Home")">Quay trở lại</a>
+    </form>
+</div>

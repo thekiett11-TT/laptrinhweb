@@ -1,0 +1,35 @@
+﻿@model List<bài_tập_về_nhà_1.Models.ToDo>
+@{
+    ViewData["Title"] = "Danh sách công việc";
+}
+
+<h1 class="text-center mt-4">DANH SÁCH CÔNG VIỆC</h1>
+<a href="@Url.Action("Create", "Home")" class="btn btn-link mb-3">Tạo mới công việc</a>
+
+<table class="table table-bordered text-center">
+    <thead class="table-light">
+        <tr>
+            <th>Mã công việc</th>
+            <th>Tên công việc</th>
+            <th>Trạng thái hoàn thành</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>
+                    <input type="checkbox" disabled @(item.IsCompleted ? "checked" : "") />
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Home", new { id = item.Id })">Sửa</a> |
+                    <a href="@Url.Action("Details", "Home", new { id = item.Id })">Chi tiết</a> |
+                    <a href="@Url.Action("Delete", "Home", new { id = item.Id })" onclick="return confirm('Bạn có chắc muốn xóa?')">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

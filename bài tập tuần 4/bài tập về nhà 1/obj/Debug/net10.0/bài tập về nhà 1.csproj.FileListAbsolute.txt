@@ -1,0 +1,99 @@
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\appsettings.Development.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\appsettings.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\bài tập về nhà 1.staticwebassets.runtime.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\bài tập về nhà 1.staticwebassets.endpoints.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\bài tập về nhà 1.exe
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\bài tập về nhà 1.deps.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\bài tập về nhà 1.runtimeconfig.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\bài tập về nhà 1.dll
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\bin\Debug\net10.0\bài tập về nhà 1.pdb
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.AssemblyInfoInputs.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.AssemblyInfo.cs
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.csproj.CoreCompileInputs.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.MvcApplicationPartsAssemblyInfo.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.RazorAssemblyInfo.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.RazorAssemblyInfo.cs
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.sourcelink.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\scopedcss\bundle\bài tập về nhà 1.styles.css
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\scopedcss\projectbundle\bài tập về nhà 1.bundle.scp.css
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\6g9gizz464-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\emx1hczkqf-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\cmafgi3gur-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\m5ho0qro9m-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\gmae7q6k6u-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\ww6565831g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\q6upe69g9f-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\5rmcvapbwv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\e3ttkuxgbk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\efu8bpwkrr-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\kq2gc7u3wk-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\dteh12blmi-{0}-ub07r2b239-ub07r2b239.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\pzcyikc37h-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\51es3pxe0v-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\35h5de16ux-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\pgdy1b66dp-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\49xysuamcj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\klqqxzmqvt-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\4o0uyasn00-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\3lode9oax4-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\2dop9gm5v4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\7oxrpjohhs-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\zmsg4oax1v-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\szdd3c5b6n-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\i83mgixhpr-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\xq0jjycjkb-{0}-06098lyss8-06098lyss8.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\gtpylnc25t-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\7gg8qg8z6f-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\qifnw7p8yj-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\cw315mpp2o-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\e31r0jsghf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\9jjgva8j77-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\nffaiiqwts-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\dqitqdhe7v-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\23wtqte7xa-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\lln1bnnalo-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\2mpzlpcfi1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\fy4nxc9blq-{0}-493y06b0oq-493y06b0oq.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\s9vikz6vws-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\bci10fntfo-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\3c2o79mlkn-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\2d8r968yh8-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\e9xihwh41x-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\1t7cfl4ywx-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\ic5ogsyx27-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\sqtjtrk1hc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\skdtr2uk9w-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\xsqohq119l-{0}-47otxtyo56-47otxtyo56.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\9zvvnul5od-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\5g8vyhfdqd-{0}-356vix0kms-356vix0kms.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\di95o1tjp6-{0}-83jwlth58m-83jwlth58m.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\vxk25qj2vv-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\yy8qs78qvu-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\tk7w1xcaqq-{0}-ag7o75518u-ag7o75518u.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\dongyuro1j-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\d0zj6cnfx3-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\2gqszm3fya-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\jel4m4ekar-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\i15q9fiu7c-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\9lqixbo4yv-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\a4mh1ccar4-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\xhtevvit2t-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\p16uvkgqfo-{0}-vn56jdy3o6-vn56jdy3o6.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\compressed\cpptgiagnb-{0}-vn56jdy3o6-vn56jdy3o6.gz
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\staticwebassets.build.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\staticwebassets.development.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\swae.build.ex.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.dll
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\refint\bài tập về nhà 1.dll
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.pdb
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\bài tập về nhà 1.genruntimeconfig.cache
+D:\2380601161_ToTheKiet\bài tập tuần 4\bài tập về nhà 1\obj\Debug\net10.0\ref\bài tập về nhà 1.dll

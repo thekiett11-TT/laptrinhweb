@@ -1,0 +1,23 @@
+﻿@model List<bài_tập_công_điểm.Models.Actor>
+@{
+    ViewData["Title"] = "Demo Vòng lặp & If-Else";
+}
+
+
+
+<ul>
+    @foreach (var actor in Model)
+    {
+        <li>
+            <strong>@actor.Name</strong> - Chiều cao: @actor.Height cm - Vai diễn:
+            @if (actor.Height >= 160)
+            {
+                <strong>@actor.Role</strong>
+            }
+            else
+            {
+                @actor.Role
+            }
+        </li>
+    }
+</ul>
