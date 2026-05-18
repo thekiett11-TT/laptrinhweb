@@ -1,0 +1,129 @@
+<?php
+require_once('app/config/database.php');
+require_once('app/models/ProductModel.php');
+require_once('app/models/CategoryModel.php');
+require_once('app/utils/JWTHandler.php'); 
+
+class ProductApiController
+{
+private $productModel;
+private $db;
+private $jwtHandler; //
+public function __construct()
+{
+$this->db = (new Database())->getConnection();
+$this->productModel = new ProductModel($this->db);
+$this->jwtHandler = new JWTHandler(); //
+}
+    private function authenticate()
+    {
+        $headers = apache_request_headers();
+        if (isset($headers['Authorization'])) {
+            $authHeader = $headers['Authorization'];
+            $arr = explode(" ", $authHeader);
+            $jwt = $arr[1] ?? null;
+            if ($jwt) {
+                return $this->jwtHandler->decode($jwt);
+            }
+        }
+        return false;
+    }
+
+    private function requireAuth() {
+        $user = $this->authenticate();
+        if (!$user) {
+            http_response_code(401);
+            echo json_encode(['message' => 'Unauthorized']);
+            exit;
+        }
+        return $user;
+    }
+
+    private function requireAdmin() {
+        $user = $this->requireAuth();
+        if (!isset($user['role']) || $user['role'] != 1) {
+            http_response_code(403);
+            echo json_encode(['message' => 'Forbidden: Requires Admin privileges']);
+            exit;
+        }
+        return $user;
+    }
+
+    // Lấy danh sách sản phẩm
+    public function index()
+    {
+        $this->requireAuth(); // Yêu cầu đăng nhập (cả Admin và User đều được)
+        header('Content-Type: application/json');
+        $products = $this->productModel->getProducts();
+        echo json_encode($products);
+    }
+
+    // Lấy thông tin sản phẩm theo ID
+    public function show($id)
+    {
+        $this->requireAuth();
+        header('Content-Type: application/json');
+        $product = $this->productModel->getProductById($id);
+        if ($product) {
+            echo json_encode($product);
+        } else {
+            http_response_code(404);
+            echo json_encode(['message' => 'Product not found']);
+        }
+    }
+    // Thêm sản phẩm mới
+    public function store()
+    {
+        $this->requireAdmin(); // Bắt buộc là ADMIN (role = 1)
+        header('Content-Type: application/json');
+        $data = json_decode(file_get_contents("php://input"), true);
+
+        $name = $data['name'] ?? '';
+        $description = $data['description'] ?? '';
+        $price = $data['price'] ?? '';
+        $category_id = $data['category_id'] ?? null;
+        $result = $this->productModel->addProduct($name, $description, $price, $category_id, null);
+        if (is_array($result)) {
+            http_response_code(400);
+            echo json_encode(['errors' => $result]);
+        } else {
+            http_response_code(201);
+            echo json_encode(['message' => 'Product created successfully']);
+        }
+    }
+
+    // Cập nhật sản phẩm theo ID
+    public function update($id)
+    {
+        $this->requireAdmin(); // Bắt buộc là ADMIN (role = 1)
+        header('Content-Type: application/json');
+        $data = json_decode(file_get_contents("php://input"), true);
+        
+        $name = $data['name'] ?? '';
+        $description = $data['description'] ?? '';
+        $price = $data['price'] ?? '';
+        $category_id = $data['category_id'] ?? null;
+        $result = $this->productModel->updateProduct($id, $name, $description, $price, $category_id, null);
+        if ($result) {
+            echo json_encode(['message' => 'Product updated successfully']);
+        } else {
+            http_response_code(400);
+            echo json_encode(['message' => 'Product update failed']);
+        }
+    }
+
+    // Xóa sản phẩm theo ID
+    public function destroy($id)
+    {
+        $this->requireAdmin(); // Bắt buộc là ADMIN (role = 1)
+        header('Content-Type: application/json');
+        $result = $this->productModel->deleteProduct($id);
+        if ($result) {
+            echo json_encode(['message' => 'Product deleted successfully']);
+        } else {
+            http_response_code(400);
+            echo json_encode(['message' => 'Product deletion failed']);
+        }
+    }
+}
+?>
