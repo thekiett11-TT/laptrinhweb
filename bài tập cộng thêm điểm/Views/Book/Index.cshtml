@@ -1,0 +1,53 @@
+@model IEnumerable<bai_tap_cong_them_diem.Models.Book>
+@{
+    ViewData["Title"] = "Trang Chủ Sách";
+}
+
+<div class="row mt-4">
+    <div class="col-md-3">
+        <h4 class="text-primary mb-3">Chủ đề</h4>
+        <ul class="list-group">
+            @if (ViewBag.Categories != null)
+            {
+                foreach (var cat in ViewBag.Categories)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <a href="#" class="text-decoration-none text-dark">@cat.Name</a>
+                        <span class="badge bg-primary rounded-pill">0</span>
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+
+    <div class="col-md-9">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h4 class="text-primary">Tất cả sách</h4>
+            <a asp-action="Create" class="btn btn-outline-success">Thêm mới</a>
+        </div>
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <img src="@(string.IsNullOrEmpty(item.ImageUrl) ? "https://via.placeholder.com/150x200?text=No+Image" : item.ImageUrl)" 
+                             class="card-img-top p-2" alt="Bìa sách" style="height: 250px; object-fit: contain;">
+                        
+                        <div class="card-body">
+                            <h6 class="card-title text-primary font-weight-bold">@item.Title</h6>
+                            <p class="card-text mb-1" style="font-size: 0.85rem;"><strong>Tác giả:</strong> @item.Author</p>
+                            <p class="card-text mb-1" style="font-size: 0.85rem;"><strong>Thể loại:</strong> @item.Category?.Name</p>
+                            <p class="card-text text-danger font-weight-bold">@item.Price.ToString("#,##0") VNĐ</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-top-0 text-center">
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Chi tiết</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Xóa</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
